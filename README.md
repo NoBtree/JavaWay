@@ -7,7 +7,7 @@ from entry to proficient, the way to be Javaer
 
 基础知识：计算机网络、操作系统、数据库（MySQL、Redis）、设计模式
 
-Java：Java基础、Java容器、Java并发
+Java：Java基础、Java容器、Java并发、Java虚拟机
 
 Java框架：Spring
 
