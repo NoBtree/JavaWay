@@ -16,3 +16,12 @@ Java框架：Spring
 使用的GitMind制作的思维导图，可以下载源文件用GitMind打开学习更清晰
 
 未完待续......
+
+
+最后列出参考的一些资料，表示谢意：
+
+https://github.com/CyC2018/cs-notes
+
+https://github.com/Snailclimb/JavaGuide
+
+
